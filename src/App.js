@@ -3,6 +3,7 @@ import React from 'react';
 import Row from './components/rows/Row';
 import Banner from './components/banner/Banner'
 import requests from './requests';
+import Nav from './components/nav/Nav';
 
 import './App.css';
 
@@ -10,6 +11,7 @@ function App() {
   return (
     <div className="App">
       {/* Navbar */}
+      <Nav />
 
       {/* Banner */}
       <Banner />
