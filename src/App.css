@@ -6,3 +6,11 @@
 .App {
   background-color: #111;
 }
+
+footer {
+  background: #000000f0;
+  color: #444;
+  text-align: center;
+  padding: 15px;
+  font-size: 0.75rem;
+}

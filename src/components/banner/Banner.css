@@ -1,7 +1,7 @@
 .banner {
     color: #fff;
     object-fit: contain;
-    height: 492px;
+    height: 452px;
 }
 
 .banner__contents {
@@ -20,7 +20,7 @@
     width: 45rem;
     line-height: 1.3;
     margin-top: 1rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
     max-width: 360px;
     padding: 15px 0;
     height: 80px;
@@ -33,7 +33,7 @@
     outline: none;
     border: none;
     font-weight: 700;
-    font-size: 1.1rem;
+    font-size: 1rem;
     border-radius: 0.2vw;
     padding-left: 2rem;
     padding-right: 2rem;
@@ -50,7 +50,7 @@
 }
 
 .banner__fadeBottom {
-    height: 8rem;
+    height: 5.4rem;
     background-image: linear-gradient(180deg,
             transparent,
             rgba(37, 37, 37, 0.61),
