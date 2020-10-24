@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Row from './components/rows/Row';
+import Banner from './components/banner/Banner'
 import requests from './requests';
 
 import './App.css';
@@ -11,6 +12,7 @@ function App() {
       {/* Navbar */}
 
       {/* Banner */}
+      <Banner />
 
       {/* Row */}
       <Row
